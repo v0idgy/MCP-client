@@ -17,8 +17,6 @@ DEFAULT_MODEL = os.getenv(
     "GROQ_MODEL",
     "openai/gpt-oss-120b"
 )
-
-
 class MCPClient:
     def __init__(self):
         self.session: Optional[ClientSession] = None
