@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "anthropic>=0.105.2",
+    "groq>=1.4.0",
     "mcp>=1.27.2",
     "python-dotenv>=1.2.2",
 ]

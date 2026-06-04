@@ -11,4 +11,4 @@
 
 2. Initialise the project with {uv init .}
 
-3. Add the dependencies {uv add mcp anthropic python-dotenv}
+3. Add the dependencies {uv add mcp anthropic python-dotenv groq}
