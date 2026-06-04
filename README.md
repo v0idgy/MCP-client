@@ -1,9 +1,4 @@
-# MCP Servers
-
-MCP servers can provides the functionalities like:
-- Resources: File-like data that can be read by client (like API responses or file contents)
-- Tools: Functions that can be called by the LLM (with user approval)
-- Prompts: Pre-written templates that help users accomplish specific tasks
+# MCP Client
 
 ### Requirements 
 - Python 3.10 or higher
